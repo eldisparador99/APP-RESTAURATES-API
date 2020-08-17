@@ -1,3 +1,9 @@
+Esta app fue desarrollada por mi, consiste en un buscador de restaurantes que hace peticiones API a la bbdd de yelp.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
